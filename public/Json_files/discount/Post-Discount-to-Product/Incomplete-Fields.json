@@ -1,0 +1,10 @@
+{
+  "error": [
+    {
+      "value": [""],
+      "msg": "Invalid value",
+      "param": "product",
+      "location": "body"
+    }
+  ]
+}

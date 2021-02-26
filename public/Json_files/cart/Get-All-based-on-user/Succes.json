@@ -1,0 +1,116 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "discount": {
+        "type": "%",
+        "value": 20,
+        "name": "Discount Valentine"
+      },
+      "variant": {
+        "name": "Panjang",
+        "option": "Model",
+        "stock": 10
+      },
+      "price": 120000,
+      "product": [
+        {
+          "price": 120000,
+          "goods_sold": 37,
+          "_id": "6034a51d7e4a080022dfcabf",
+          "name": "StealSeries",
+          "category": "6034a37b7e4a080022dfcab9",
+          "variant": "6034a4ab7e4a080022dfcabc",
+          "description": "Handler",
+          "createdAt": "2021-02-23T06:47:57.773Z",
+          "updatedAt": "2021-02-26T07:54:44.088Z",
+          "__v": 0,
+          "discount": "6038a90187ab9d00223b1616"
+        }
+      ],
+      "_id": "6038a66c57ab76ab97f6780e",
+      "idVariantOption": "6034a4ab7e4a080022dfcabd",
+      "user": "6034a2dc7e4a080022dfcab7",
+      "categoryName": "StealSeries",
+      "createdAt": "2021-02-26T07:42:36.540Z",
+      "image_url": null,
+      "name": "StealSeries",
+      "qty": 3,
+      "updatedAt": "2021-02-26T07:54:54.094Z"
+    },
+    {
+      "discount": {
+        "type": "%",
+        "value": 20,
+        "name": "Discount Valentine"
+      },
+      "variant": {
+        "name": "Pendek",
+        "option": "Model",
+        "stock": 5
+      },
+      "price": 120000,
+      "product": [
+        {
+          "price": 120000,
+          "goods_sold": 37,
+          "_id": "6034a51d7e4a080022dfcabf",
+          "name": "StealSeries",
+          "category": "6034a37b7e4a080022dfcab9",
+          "variant": "6034a4ab7e4a080022dfcabc",
+          "description": "Handler",
+          "createdAt": "2021-02-23T06:47:57.773Z",
+          "updatedAt": "2021-02-26T07:54:44.088Z",
+          "__v": 0,
+          "discount": "6038a90187ab9d00223b1616"
+        }
+      ],
+      "_id": "6038a66c57ab76ab97f6780f",
+      "idVariantOption": "6034a4ab7e4a080022dfcabe",
+      "user": "6034a2dc7e4a080022dfcab7",
+      "categoryName": "StealSeries",
+      "createdAt": "2021-02-26T07:42:36.540Z",
+      "image_url": null,
+      "name": "StealSeries",
+      "qty": 3,
+      "updatedAt": "2021-02-26T07:54:54.094Z"
+    },
+    {
+      "discount": {
+        "type": "%",
+        "value": 20,
+        "name": "Discount Valentine"
+      },
+      "variant": {
+        "name": "Size",
+        "option": "XL",
+        "stock": 1
+      },
+      "price": 120000,
+      "product": [
+        {
+          "price": 120000,
+          "goods_sold": 10,
+          "_id": "6034a5de7e4a080022dfcac1",
+          "name": "Baju Kemeja",
+          "category": "6034a59f7e4a080022dfcac0",
+          "variant": "6034a3967e4a080022dfcaba",
+          "description": "Batik",
+          "createdAt": "2021-02-23T06:51:10.742Z",
+          "updatedAt": "2021-02-26T07:54:44.088Z",
+          "__v": 0,
+          "discount": "6038a90187ab9d00223b1616"
+        }
+      ],
+      "_id": "6038a66c57ab76ab97f67810",
+      "idVariantOption": "600b352159630e1f54ee8a90",
+      "user": "6034a2dc7e4a080022dfcab7",
+      "categoryName": "Singlet",
+      "createdAt": "2021-02-26T07:42:36.540Z",
+      "image_url": null,
+      "name": "Baju Kemeja",
+      "qty": 1,
+      "updatedAt": "2021-02-26T07:54:54.094Z"
+    }
+  ]
+}

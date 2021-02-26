@@ -1,0 +1,22 @@
+{
+  "error": [
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "full_name",
+      "location": "body"
+    },
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "email",
+      "location": "body"
+    },
+    {
+      "value": "",
+      "msg": "Invalid value",
+      "param": "password",
+      "location": "body"
+    }
+  ]
+}

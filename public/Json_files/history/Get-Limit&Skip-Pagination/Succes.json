@@ -1,0 +1,54 @@
+{
+  "message": "succes",
+  "data": [
+    {
+      "_id": "60350b60cd59600022552eb5",
+      "nama_lengkap": "Bachtiar Firdaus",
+      "orders": [
+        {
+          "_id": "60350b60cd59600022552eb7",
+          "Product": "StealSeries",
+          "Category_Name": "StealSeries",
+          "Variant_Name": "Panjang",
+          "VariantOption": "Model",
+          "Qty": 3,
+          "Discount": "-",
+          "Price": 120000,
+          "Total_Discount": 0,
+          "Sub_Total_Belanja": 360000
+        },
+        {
+          "_id": "60350b60cd59600022552eb8",
+          "Product": "StealSeries",
+          "Category_Name": "StealSeries",
+          "Variant_Name": "Pendek",
+          "VariantOption": "Model",
+          "Qty": 3,
+          "Discount": "-",
+          "Price": 120000,
+          "Total_Discount": 0,
+          "Sub_Total_Belanja": 360000
+        },
+        {
+          "_id": "60350b60cd59600022552eb9",
+          "Product": "Baju Kemeja",
+          "Category_Name": "Singlet",
+          "Variant_Name": "Size",
+          "VariantOption": "XL",
+          "Qty": 1,
+          "Discount": "-",
+          "Price": 120000,
+          "Total_Discount": 0,
+          "Sub_Total_Belanja": 120000
+        }
+      ],
+      "amount": 840000,
+      "email": "id.bachtiar.firdaus@gmail.com",
+      "user": "6034a2dc7e4a080022dfcab7",
+      "date": "2021-02-23",
+      "order_number": 400,
+      "__v": 0
+    }
+  ],
+  "count": 2
+}
