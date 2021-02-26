@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "name": "Outfit",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600b361959630e1f54ee8a96"
+  },
+  "name": "Fashions",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602b6bb3a3e9dd093847e66e"
+  },
+  "name": "StealSeries",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602d292764c64514408a0f87"
+  },
+  "name": "Steal",
+  "__v": 0
+}]

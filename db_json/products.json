@@ -1,0 +1,473 @@
+[{
+  "_id": {
+    "$oid": "600478addce2d122c8efb5e5"
+  },
+  "price": 120000,
+  "name": "Handler Baju",
+  "image_url": "9c51f31b08db707dd67e2eb710da7b22.jpg",
+  "createdAt": {
+    "$date": "2021-01-17T17:49:33.466Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-17T15:03:38.991Z"
+  },
+  "__v": 0,
+  "discount": {
+    "$oid": "600eb811466d8d3580b53325"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "description": "Handler"
+},{
+  "_id": {
+    "$oid": "60072b523a0b75361c9dba40"
+  },
+  "price": 999999,
+  "name": "Test Destroy",
+  "image_url": "c1a3902a405babdc626adea86ba5e5d7.jpg",
+  "createdAt": {
+    "$date": "2021-01-19T18:56:18.662Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-17T14:45:10.563Z"
+  },
+  "__v": 0,
+  "discount": {
+    "$oid": "600eb811466d8d3580b53325"
+  },
+  "variant": {
+    "$oid": "600b357d59630e1f54ee8a91"
+  }
+},{
+  "_id": {
+    "$oid": "6009a4f724a15b0cfcd1a1b0"
+  },
+  "price": 999999,
+  "name": "Test Destroy",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "image_url": "ea906eb5736d72c745beb0c5593fe2e2.jpg",
+  "createdAt": {
+    "$date": "2021-01-21T15:59:51.362Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-21T15:59:51.362Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600b3d405c9dfc18543ab039"
+  },
+  "price": 120000,
+  "variant": [
+    {
+      "$oid": "600b352159630e1f54ee8a8c"
+    }
+  ],
+  "name": "Singlet",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "image_url": "d47b84c4c46ce039d5b4e32f2d327bb5.jpg",
+  "createdAt": {
+    "$date": "2021-01-22T21:01:52.281Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-17T14:45:10.563Z"
+  },
+  "__v": 0,
+  "discount": {
+    "$oid": "600eb811466d8d3580b53325"
+  }
+},{
+  "_id": {
+    "$oid": "600b3d8c833e81243c7c7536"
+  },
+  "price": 120000,
+  "variant": [
+    {
+      "$oid": "600b352159630e1f54ee8a8c"
+    }
+  ],
+  "name": "Singlet",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "image_url": "10ecf4c6ca4ca196cd39ef28738981b6.jpg",
+  "createdAt": {
+    "$date": "2021-01-22T21:03:08.240Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-22T21:03:08.240Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600b3db06596d427348a9c0d"
+  },
+  "price": 120000,
+  "variant": [
+    {
+      "$oid": "600b352159630e1f54ee8a8c"
+    }
+  ],
+  "name": "Singlet",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "image_url": "930a74ba43111f4d5c40c7d683128fe1.jpg",
+  "createdAt": {
+    "$date": "2021-01-22T21:03:44.246Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-22T21:03:44.246Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600b3ddcde4c4809d838f9f7"
+  },
+  "price": 120000,
+  "variant": [
+    {
+      "$oid": "600b352159630e1f54ee8a8c"
+    }
+  ],
+  "name": "Singlet",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "image_url": "6173f948165d72df9a1f46aadf70565d.jpg",
+  "createdAt": {
+    "$date": "2021-01-22T21:04:28.990Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-22T21:04:28.990Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600b3de5ffe44333404cc118"
+  },
+  "price": 120000,
+  "variant": [
+    {
+      "$oid": "600b352159630e1f54ee8a8c"
+    }
+  ],
+  "name": "Singlet",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "image_url": "48c82c8a2d7cb4451f11286126cd2002.jpg",
+  "createdAt": {
+    "$date": "2021-01-22T21:04:37.658Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-22T21:04:37.658Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600b3e04772648055455c40e"
+  },
+  "price": 120000,
+  "variant": [
+    {
+      "$oid": "600b352159630e1f54ee8a8c"
+    }
+  ],
+  "name": "Singlet",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "image_url": "b312e0d904ae484be6025572a611ea00.jpg",
+  "createdAt": {
+    "$date": "2021-01-22T21:05:08.362Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-22T21:05:08.362Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600b3e25684fa829b4d143f8"
+  },
+  "price": 120000,
+  "variant": [
+    {
+      "$oid": "600b352159630e1f54ee8a8c"
+    }
+  ],
+  "name": "Singlet",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "image_url": "dd251ea98224347d3af77b6bda789dbb.jpg",
+  "createdAt": {
+    "$date": "2021-01-22T21:05:41.766Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-22T21:05:41.766Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600b3e337c24742ed4a04962"
+  },
+  "price": 1500000,
+  "variant": [
+    {
+      "$oid": "600b352159630e1f54ee8a8c"
+    }
+  ],
+  "name": "Kaca Mata Emi",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "image_url": "cfadd84ea7e6bde2438172aae8073a54.jpg",
+  "createdAt": {
+    "$date": "2021-01-22T21:05:55.239Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-17T14:45:10.563Z"
+  },
+  "__v": 0,
+  "discount": {
+    "$oid": "600eb811466d8d3580b53325"
+  }
+},{
+  "_id": {
+    "$oid": "602b7eed67f9b734a0cc08eb"
+  },
+  "price": 120000,
+  "name": "Handler Baju",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "description": "Handler",
+  "image_url": "19ab35b0ef1b9fe60ff0542fe8339f3f.jpg",
+  "createdAt": {
+    "$date": "2021-02-16T08:14:37.937Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-16T08:14:37.937Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602b7f44ef41860f842801da"
+  },
+  "price": 120000,
+  "name": "Handler Baju",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "description": "Handler",
+  "image_url": "766dee3b805bd154bdb7c7a0e22a3e28.jpg",
+  "createdAt": {
+    "$date": "2021-02-16T08:16:04.820Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-16T08:16:04.820Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602b7f5353c47921748f9b77"
+  },
+  "price": 120000,
+  "name": "Handler Baju",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "description": "Handler",
+  "image_url": "f0f895f92be3e7a87512059ca96ac92b.jpg",
+  "createdAt": {
+    "$date": "2021-02-16T08:16:19.333Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-16T08:16:19.333Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602b7f784bce6914f4fab561"
+  },
+  "price": 120000,
+  "name": "Handler Baju",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "description": "Handler",
+  "image_url": "bb4fd7149d49b6a0e8c47b78e1d78bab.jpg",
+  "createdAt": {
+    "$date": "2021-02-16T08:16:56.864Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-16T08:16:56.864Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602b7fb1400da7306c8fd4de"
+  },
+  "price": 120000,
+  "name": "Handler Baju",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "description": "Handler",
+  "image_url": "837a6a407b8a4457abd734de1f56a8f7.jpg",
+  "createdAt": {
+    "$date": "2021-02-16T08:17:54.007Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-16T08:17:54.007Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602b7fc311d5302638372f3f"
+  },
+  "price": 120000,
+  "name": "Handler Baju",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "description": "Handler",
+  "image_url": "ca25563cc204675c6444b89440a763da.jpg",
+  "createdAt": {
+    "$date": "2021-02-16T08:18:11.729Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-16T08:18:11.729Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602b801008913c1b54a153f0"
+  },
+  "price": 120000,
+  "name": "Handler Baju",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "description": "Handler",
+  "image_url": "960215120d5f9f6b430d0d9bd79773ea.jpg",
+  "createdAt": {
+    "$date": "2021-02-16T08:19:28.725Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-16T08:19:28.725Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602d2f87993b3f1784269fc5"
+  },
+  "price": 120000,
+  "name": "Handler Baju",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "description": "Handler",
+  "image_url": "39bae4b938b17aaf8ff1afb3ad5758d7.jpg",
+  "createdAt": {
+    "$date": "2021-02-17T15:00:23.970Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-17T15:00:23.970Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602d2fca9f8e9f02183d7620"
+  },
+  "price": 120000,
+  "name": "Handler Baju",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "description": "Handler",
+  "image_url": "a7fc57c78e8bb0b5f508ec0ad5ae7385.jpg",
+  "createdAt": {
+    "$date": "2021-02-17T15:01:30.864Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-17T15:01:30.864Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602d2fd19f8e9f02183d7621"
+  },
+  "price": 120000,
+  "name": "Handler Baju",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "description": "Handler",
+  "createdAt": {
+    "$date": "2021-02-17T15:01:37.519Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-17T15:01:37.519Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602e9e4ae25bc30aa443651c"
+  },
+  "price": 120000,
+  "name": "StealSeries",
+  "category": {
+    "$oid": "6009a4eb24a15b0cfcd1a1af"
+  },
+  "variant": {
+    "$oid": "600b352159630e1f54ee8a8c"
+  },
+  "description": "Handler",
+  "createdAt": {
+    "$date": "2021-02-18T17:05:15Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-18T17:05:15Z"
+  },
+  "__v": 0
+}]

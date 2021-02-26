@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "600eb811466d8d3580b53325"
+  },
+  "type": "%",
+  "value": 30,
+  "status": "y",
+  "product": [
+    {
+      "$oid": "600478addce2d122c8efb5e5"
+    },
+    {
+      "$oid": "60072b523a0b75361c9dba40"
+    },
+    {
+      "$oid": "600b3d405c9dfc18543ab039"
+    },
+    {
+      "$oid": "600b3e337c24742ed4a04962"
+    }
+  ],
+  "name": "Discount Hari Besar",
+  "date": {
+    "$date": "2021-01-30T17:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-01-25T12:22:42.008Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-17T14:45:10.578Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ef5940d4b3d0ab47430aa"
+  },
+  "type": "%",
+  "value": 20,
+  "status": "y",
+  "product": [],
+  "name": "Discount Ahir Tahun",
+  "date": {
+    "$date": "2021-01-30T17:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-01-25T16:45:08.576Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-25T16:45:08.576Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602bc46f35e6db2740661647"
+  },
+  "type": "%",
+  "value": 30,
+  "status": "y",
+  "product": [],
+  "name": "Discount Ulang Tahun",
+  "date": {
+    "$date": "2021-01-30T17:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-02-16T13:11:11.449Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-17T14:46:36.939Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602d2b5946900f22d006a59f"
+  },
+  "type": "%",
+  "value": 20,
+  "status": "y",
+  "product": [],
+  "name": "Discount Valentine",
+  "date": {
+    "$date": "2021-01-30T17:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-02-17T14:42:33.041Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-17T14:42:33.041Z"
+  },
+  "__v": 0
+}]
